@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="ha-rahman" /> </p>
 
-- 👨‍💻 All of my projects are available at [](https://ha-rahman.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ha-rahman.github.io/Portfolio/)
 
 - 📫 How to reach me **hazrat.cse@gmail.com**
 
