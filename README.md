@@ -10,6 +10,8 @@
 
 - 📝 I regularly solve coding problems on [https://leetcode.com/u/hzratali/](https://leetcode.com/u/hzratali/)
 
+- 💬 Ask me about **MERN Stack, DSA**
+
 - 📫 How to reach me **hazrat.cse@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1eKY7dLir90S5Lo4KGoyCiGbZ2kDVc2kT/view?usp=sharing)
